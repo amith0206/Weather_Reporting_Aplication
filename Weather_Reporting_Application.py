@@ -15,7 +15,7 @@ def text_to_speech(text):
 
 # WeatherAPI endpoint and API key
 url = "https://api.weatherapi.com/v1/current.json"
-api_key = "992f3386be2c4b1687085857230106"
+api_key = "your-api-key"
 
 #Function to turn speech to text
 def say():
