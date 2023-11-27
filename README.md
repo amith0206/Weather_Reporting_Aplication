@@ -17,7 +17,7 @@ Obtain an API key from the WeatherAPI service. Sign up for an account on their w
 
 Open the weather_reporting.py file in a text editor.
 
-Replace the placeholder value ("992f3386be2c4b1687085857230106") assigned to the api_key variable with your actual WeatherAPI key.
+Replace the placeholder value ("your-api-key") assigned to the api_key variable with your actual WeatherAPI key.
 
 Save the file.
 
